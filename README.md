@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+.env.*
+
+# Package files
+package.json
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Configuration files
+jsconfig.json
+vite.config.js
+.oxfmtrc.json
+
+# Editor settings
+.vscode/
+
+# OS files
+.DS_Store
