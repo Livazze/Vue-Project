@@ -1,27 +1,20 @@
-# Dependencies
-node_modules/
+# Student Management Frontend
 
-# Build output
-dist/
-dist-ssr/
+Frontend application built with Vue 3 and Pinia to interact with the Student REST API.
 
-# Environment variables
-.env
-.env.*
+## Features
+- List, view, create, and edit student records
+- Centralized state management using Pinia
+- Client-side routing with Vue Router
 
-# Package files
-package.json
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
+## Tech Stack
+- Vue 3 (Composition API)
+- Vite
+- Pinia
+- Vue Router
 
-# Configuration files
-jsconfig.json
-vite.config.js
-.oxfmtrc.json
+## Setup & Run
 
-# Editor settings
-.vscode/
-
-# OS files
-.DS_Store
+Install dependencies:
+```bash
+pnpm install
