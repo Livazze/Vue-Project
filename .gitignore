@@ -16,9 +16,9 @@ dist-ssr/
 #yarn.lock
 
 # Configuration files
-jsconfig.json
-vite.config.js
-.oxfmtrc.json
+#jsconfig.json
+#vite.config.js
+#.oxfmtrc.json
 
 # Editor settings
 .vscode/
