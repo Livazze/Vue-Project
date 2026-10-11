@@ -10,10 +10,10 @@ dist-ssr/
 .env.*
 
 # Package files
-package.json
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
+#package.json
+#package-lock.json
+#pnpm-lock.yaml
+#yarn.lock
 
 # Configuration files
 jsconfig.json
