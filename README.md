@@ -1,27 +1,38 @@
-# Dependencies
-node_modules/
+# example5
 
-# Build output
-dist/
-dist-ssr/
+This template should help get you started developing with Vue 3 in Vite.
 
-# Environment variables
-.env
-.env.*
+## Recommended IDE Setup
 
-# Package files
-package.json
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
+[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-# Configuration files
-jsconfig.json
-vite.config.js
-.oxfmtrc.json
+## Recommended Browser Setup
 
-# Editor settings
-.vscode/
+- Chromium-based browsers (Chrome, Edge, Brave, etc.):
+  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
+- Firefox:
+  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-# OS files
-.DS_Store
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+pnpm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+pnpm dev
+```
+
+### Compile and Minify for Production
+
+```sh
+pnpm build
+```

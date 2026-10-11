@@ -1,4 +1,4 @@
-const api = 'http://localhost:3000/api/students' //api çağrisını burada yaptım
+const api = 'https://student-api-ux6q.onrender.com' //api çağrisını burada yaptım
 
 export function getStudentData() { //export fonksiyonu dışarı açmak
     return fetch(api) 
